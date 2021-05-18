@@ -1,0 +1,13 @@
+.info-box {
+  min-height: 30vh;
+}
+
+.info-box .info-box-content {
+  justify-content: normal !important;
+}
+
+.input-comment {
+  position: absolute;
+  bottom: 5%;
+  width: 88vw;
+}

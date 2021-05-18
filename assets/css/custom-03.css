@@ -1,0 +1,62 @@
+.card-primary.card-outline-tabs > .card-header a.active {
+  border-bottom: 3px solid teal !important;
+  border-top: none;
+  color: teal !important;
+}
+
+.bg-teal {
+  background-color: teal !important;
+  border-color: teal !important;
+}
+
+.card.card-outline-tabs .card-header a:hover {
+  border-top: none;
+  border-bottom: 3px solid #dee2e6;
+}
+
+.card-primary.card-outline.card-custom-dashboard,
+.card-primary.card-outline.card-custom-dashboard-2 {
+  border-top: 3px solid teal;
+}
+
+.card-primary.card-outline-tabs > .card-header a {
+  color: #6c757d;
+}
+
+.nav-tabs .nav-link {
+  border: none;
+}
+
+.card-tabs-custom {
+  height: 100vh;
+}
+
+.nav-tabs {
+  padding: 0 15%;
+}
+
+.tab-content {
+  padding: 0 8%;
+}
+
+.card-header-forum {
+  min-height: 30vh;
+  background-color: teal;
+}
+
+.card-tugas {
+  display: flex;
+}
+
+.card-custom-dashboard-2 {
+  min-height: 35vh;
+}
+
+.card-tugas i {
+  font-size: 50px;
+  margin-right: 2%;
+}
+
+.card-tugas .summary-tugas span {
+  font-size: 13px;
+}

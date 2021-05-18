@@ -1,0 +1,12 @@
+.wrapper-success-page {
+  height: 100vh;
+}
+
+.wrapper-success-page i {
+  font-size: 80px;
+  color: teal;
+}
+
+.wrapper-success-page p {
+  font-size: 20px;
+}
